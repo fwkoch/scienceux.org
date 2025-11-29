@@ -1,0 +1,30 @@
+version: 1
+project:
+  title: ScienceUX
+  description: ''
+  toc:
+    - file: index.md
+    - file: mission.md
+    - file: articles.md
+    - file: papers.md
+    - file: planning-a-poster-session-best-practices.md
+    - file: posters.md
+    - file: talks.md
+    - file: free-resources.md
+    - file: design-training.md
+    - file: submission-guidelines.md
+    - file: how-you-can-help.md
+    - file: comments-from-scientists.md
+  banner: banner.png
+  abbreviations:
+    TL;DR: Too Long; Didn't Read
+    UX: User Experience
+    UI: User Interface
+    WYSIWYG: What You See Is What You Get
+    JATS: Journal Article Tag Suite
+    CC-0: Creative Commons Zero License
+    CC-BY: Creative Commons Attribution License
+site:
+  title: ScienceUX
+  domains:
+    - betterscience-landing.curve.space
