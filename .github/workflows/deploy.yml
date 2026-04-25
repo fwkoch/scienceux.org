@@ -1,0 +1,11 @@
+name: Publish Landing Content
+on:
+  push:
+    branches: ['main']
+jobs:
+  build-and-deploy:
+    uses: curvenote/actions/.github/workflows/push.yml@v1
+    with:
+      landing-content: scienceux
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
