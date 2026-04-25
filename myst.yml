@@ -28,3 +28,14 @@ site:
   title: ScienceUX
   domains:
     - betterscience-landing.curve.space
+  nav:
+    - title: Research
+      url: /articles
+    - title: Free Resources
+      url: /free-resources
+    - title: Mission
+      url: /mission
+    - title: Community
+      url: https://www.reddit.com/r/ScienceUX/
+    - title: Submit Research
+      url: /submission-guidelines
